@@ -40,4 +40,6 @@ Pour plus d'informations ou pour contribuer, contactez-nous : **ebikeroule@gmail
 
 ---
 
+![Maquette-Roul](https://github.com/user-attachments/assets/7b2fabb3-e0a6-4bc8-b3c1-2d604fc16a7b)
+
 > 🚨 Ce projet est à but éducatif, réalisé dans le cadre du PFA (Projet de Fin d’Année).
