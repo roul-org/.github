@@ -26,9 +26,9 @@ Projet de PFA réalisé par 4 étudiants de l'ENIAD :
 
 ## 📄 À propos
 
-Roul est une solution complète pour la gestion de flotte de trottinettes électriques, destinée aux villes et aux opérateurs privés.
+Roul est une solution innovante pour la gestion de stations de trottinettes intelligentes, destinée aux villes et aux opérateurs privés.
 
-Pour plus d'informations ou pour contribuer, contactez-nous : **ebikeroule@gmail.com**
+Pour plus d'informations ou pour contribuer, contactez-nous : **roul2425@outlook.com**
 
 ---
 
